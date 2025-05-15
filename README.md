@@ -1,4 +1,4 @@
-# 📰 Fake News Detection AI Project
+Streamlit app that detects fake news using a Naive Bayes machine learning model.# 📰 Fake News Detection AI Project
 
 This is an AI-based web app that detects whether a news article is real or fake using a machine learning model trained on real-world news articles.
 
